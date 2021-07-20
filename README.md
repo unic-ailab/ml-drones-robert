@@ -6,6 +6,12 @@ This repo contains three coding files, including my first two simplified attempt
 Coding File 1: drone_LinReg_VelocityXOrientationX.py      
 Features a preliminary attempt at Linear Regression to determine whether a relationship or correlation exists between Wind Speed and Velocity-Y
 
+    Image File 1: Velocity-X vs. Orientation-X Scatterplot.png
+    Displays the data points where the x values represent velocity-x and the y values represent the orientation-x in the form of a scatterplot
+    
+    Image File 2: Residuals of Velocity-X vs. Orientation-X Linear Regression.png
+    Demonstrates the accuracy using a histogram showing the distribution of the residuals, where most residual values are around 0, showing the accuracy of the regression on these two variables
+
 Coding File 2: drone_LinReg_WindSpeedVelocityY.py        
 Features a preliminary attempt at Linear Regression to determine whether a relationship or correlation exists between Velocity-X and Orientation-X
     
